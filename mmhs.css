@@ -1,0 +1,36 @@
+body {
+background-color: rgba(181, 177, 177, 0.418);
+}#d{
+width: 700px;
+height: 350px;
+border-radius: 5%;
+background-color: white;
+box-shadow: 10px 10px 10px black;
+margin-top: 100px;
+}#i{
+width: 100px;
+height: 100px;
+margin-top: 10px;
+}#p1{
+margin-top: -30px;
+}#i1{
+height: 20px;
+font-size: large;
+background-color: black;
+color: white;
+opacity: 0.50;
+border-radius: 5px;
+text-indent: 70px;
+letter-spacing: 5px;
+margin-top: 0px;
+}#b{
+width: 100px;
+margin-top: 20px;
+background-color: black;
+color: white;
+opacity: 0.50;
+border-radius: 5px;
+}a{
+text-decoration: none;
+color:black;
+}
